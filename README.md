@@ -13,5 +13,5 @@ Das Projekt ist unter dem BSD-3 clause lizenziert.
 Die Software wird nicht maintained, da es sich hier um ein Pilotprojekt handelt. Bei fragen, kontaktieren Sie bitte Daphne Theodorakopoulos (daphne.theodorakopoulos@dfki.de).
 
 ## Förderung
-Der Green-AI-Hub Mittelstand wird durch das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) im Rahmen der KI-Leuchttürme mit dem Förderkennzeichen  gefördert.
+Der Green-AI-Hub Mittelstand ist ein Auftrag des Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) mit dem Förderkennzeichen 57-E-2110.
 
