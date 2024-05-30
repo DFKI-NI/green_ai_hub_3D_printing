@@ -56,6 +56,7 @@ if __name__ == '__main__':
         outputs = classify(image, transform, model)
         plt.imshow(image)
         current_axis = plt.gca()
+        outputs = outputs[0]
 
         for box, score, label in zip(outputs['boxes'], outputs['scores'], outputs['labels']):
             if score > 0.3:  # threshold can be adjusted
